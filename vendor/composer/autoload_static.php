@@ -16,7 +16,7 @@ class ComposerStaticInitec66bba388d249e22397368352c85220
     public static $prefixDirsPsr4 = array (
         'Archangel\\Themes\\' => 
         array (
-            0 => '/themes/src',
+            0 => '/archangel/themes/src',
         ),
     );
 

@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Archangel\\Themes\\' => array('/themes/src'),
+    'Archangel\\Themes\\' => array('/archangel/themes/src'),
 );

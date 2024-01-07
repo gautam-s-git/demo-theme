@@ -1,6 +1,6 @@
 <?php
 
-namespace Archangel\Themes;
+namespace Archangel\Themes\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
