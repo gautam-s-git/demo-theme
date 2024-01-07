@@ -1,0 +1,19 @@
+{
+    "name": "archangel/themes",
+    "description": "It a collection of themes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gautam665"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Archangel\\Themes\\": "/themes/src/"
+        }
+    }
+
+}
