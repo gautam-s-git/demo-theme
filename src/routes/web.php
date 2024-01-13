@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Archangel\Themes\Http\Controllers\LoadThemeController;
+use Archangel\Packages\Http\Controllers\LoadThemeController;
 
 Route::group(['prefix' => 'theme'], function () {
     Route::get('list', [LoadThemeController::class, 'list']);

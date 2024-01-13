@@ -1,6 +1,6 @@
 <?php
 
-namespace Archangel\Themes;
+namespace Archangel\Packages;
 
 use Illuminate\Support\ServiceProvider;
 

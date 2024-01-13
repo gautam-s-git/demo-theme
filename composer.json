@@ -12,13 +12,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Archangel\\Themes\\": "/archangel/themes/src/"
+            "Archangel\\Packages\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Archangel\\Themes\\ThemeServiceProvider"
+                "Archangel\\Packages\\ThemeServiceProvider"
             ]
         }
     }

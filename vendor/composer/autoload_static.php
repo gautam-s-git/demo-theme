@@ -9,14 +9,14 @@ class ComposerStaticInit308f7348a3cc31696be4d9f51b01a6c8
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'Archangel\\Themes\\' => 17,
+            'Archangel\\Packages\\' => 19,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Archangel\\Themes\\' => 
+        'Archangel\\Packages\\' => 
         array (
-            0 => '/archangel/themes/src',
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 

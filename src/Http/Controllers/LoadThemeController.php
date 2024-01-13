@@ -1,6 +1,6 @@
 <?php
 
-namespace Archangel\Themes\Http\Controllers;
+namespace Archangel\Packages\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
